@@ -1,7 +1,7 @@
 # 【ChatGPT 中文版】国内镜像网站免费推荐（支持 4o、o1 和 GPT-4）【2025年5月更新】
 
 > 本文教你如何在国内便捷使用 **ChatGPT 中文版** 的方法，并推荐多个**无需翻墙的 ChatGPT 镜像网站**。  
-> 更新日期: 2025/05/10   
+> 更新日期: 2025/05/22   
 
 在这里，您将找到详尽的 **ChatGPT 中文版使用指南**，帮您在学习、工作和日常生活中充分利用 ChatGPT 的强大功能。
 
@@ -9,7 +9,7 @@
 
 ## 为什么选择 ChatGPT 中文版？
 
-**ChatGPT 中文版** 是一个经过优化的人工智能语言模型，旨在为中文用户提供更加顺畅和高效的对话体验。它解决了国内用户访问困难的问题，为用户提供了无障碍的访问途径。
+[**ChatGPT 中文版**](https://chat.lanjing.pro) 是一个经过优化的人工智能语言模型，旨在为中文用户提供更加顺畅和高效的对话体验。它解决了国内用户访问困难的问题，为用户提供了无障碍的访问途径。
 
 - **无需翻墙**：在国内即可直接访问，无须任何额外工具。
 - **深度中文优化**：针对中文进行了全面优化，适用于各种应用场景。
@@ -20,12 +20,12 @@
 
 ## 国内推荐的 ChatGPT 镜像网站
 
-1. **[chat.yixiaai.com](https://chat.yixiaai.com/)**：可靠的 ChatGPT 中文平台，持续运营近两年，支持GPT-4o和o1。
-2. **[chat.lify.vip](https://www.yixiaai.com/)**：集成广泛的模型选择，支持GPT-4o、4o mini和o1，适应多种行业需求，适合多平台使用。
+1. **[chat.yixiaai.com](https://chat.lanjing.pro/)**：可靠的 ChatGPT 中文平台，持续运营近两年，支持GPT-4o和o1。
+2. **[chat.lify.vip](https://xsimplechat.com/)**：集成广泛的模型选择，支持GPT-4o、4o mini和o1，适应多种行业需求，适合多平台使用。
 3. **[yixiaai.cn](https://yixiaai.cn/)**：AI 工具导航网站，汇聚大量工具，帮助用户掌握最新技术。
-4. **[guide1.lanjing.ai](https://guide1.lanjing.ai/)**：提供 AI 绘画和多种语言模型支持，适合创意工作者。
+4. **[guide1.lanjing.ai](https://chat.yixiaai.com/)**：提供 AI 绘画和多种语言模型支持，适合创意工作者。
 5. **[ai.lansejingyu.com](https://ai.lansejingyu.com/)**：易于上手的 GPT 平台，适合新手用户。
-6. **[lanjing.ai](https://lanjing.ai/)**：提供免费使用机会，广泛支持最新模型。
+6. **[lanjing.ai](https://lanjing.pro/)**：提供免费使用机会，广泛支持最新模型。
 
 这些网站为用户提供了多种选择，您可以根据个人需求选择最合适的平台。
 
@@ -49,7 +49,7 @@
 
 要快速体验 ChatGPT 中文版，请参考以下步骤：
 
-1. **选择网站**：选择最适合您的 ChatGPT 中文平台，如 **[chat.yixiaai.com](https://chat.yixiaai.com/)** 或 **[chat.lify.vip](https://www.yixiaai.com/)**。
+1. **选择网站**：选择最适合您的 ChatGPT 中文平台，如 **[chat.yixiaai.com](https://chat.lanjing.pro/)** 或 **[chat.lify.vip](https://xsimplechat.com/)**。
 2. **登录流程**：通过微信或手机号快速登录，操作简单。
 3. **开始使用**：输入您的问题或任务，系统将提供即时响应。
 4. **探索附加功能**：尝试平台提供的其他功能，如 AI 助手、绘画等，以充分利用其全部功能。
